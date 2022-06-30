@@ -35,12 +35,12 @@
 	url = https://hub.fastgit.xyz/KhronosGroup/OpenCL-Headers.git
 	ignore = dirty
 [submodule "thirdparty/ocl/clhpp_headers"]
-	path = thirdparty/ocl/clhpp_headers
-	url = https://hub.fastgit.xyz/KhronosGroup/OpenCL-CLHPP.git
+	path = thirdparty/ocl/
+	url = https://hub.fastgit.xyz/elben6exam/OpenCL-CLHPP.git
 	ignore = dirty
 [submodule "thirdparty/onnx"]
 	path = thirdparty/onnx/onnx
-	url = https://hub.fastgit.xyz/onnx/onnx.git
+	url = https://hub.fastgit.xyz/elben6exam/onnx.git
 [submodule "thirdparty/protobuf"]
 	path = thirdparty/protobuf/protobuf
 	url = https://hub.fastgit.xyz/protocolbuffers/protobuf.git
