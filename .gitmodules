@@ -20,7 +20,7 @@
 	ignore = dirty
 [submodule "thirdparty/gflags/gflags"]
 	path = thirdparty/gflags/gflags
-	url = https://hub.fastgit.xyz/gflags/gflags.git
+	url = https://hub.fastgit.xyz/elben6exam/gflags.git
 	ignore = dirty
 [submodule "thirdparty/gtest/gtest"]
 	path = thirdparty/gtest/gtest
